@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d60e602.chunk.css",
+    "main.js": "/static/js/main.21daeb3f.chunk.js",
+    "main.js.map": "/static/js/main.21daeb3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72e97db6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72e97db6.js.map",
+    "static/js/2.85a70e2d.chunk.js": "/static/js/2.85a70e2d.chunk.js",
+    "static/js/2.85a70e2d.chunk.js.map": "/static/js/2.85a70e2d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.de9dfb4608dd7f7d2ec17dfaaf4d7abd.js": "/precache-manifest.de9dfb4608dd7f7d2ec17dfaaf4d7abd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8d60e602.chunk.css.map": "/static/css/main.8d60e602.chunk.css.map",
+    "static/js/2.85a70e2d.chunk.js.LICENSE.txt": "/static/js/2.85a70e2d.chunk.js.LICENSE.txt",
+    "static/media/Piet.jpg": "/static/media/Piet.c04c3fcd.jpg",
+    "static/media/Wouter.jpg": "/static/media/Wouter.919dfc91.jpg",
+    "static/media/bg.png": "/static/media/bg.b5d7341b.png",
+    "static/media/bp.png": "/static/media/bp.6eb20577.png",
+    "static/media/cableWireless.png": "/static/media/cableWireless.cd8980b0.png",
+    "static/media/deloitte.png": "/static/media/deloitte.3716adde.png",
+    "static/media/finastra.png": "/static/media/finastra.481061dd.png",
+    "static/media/intro.jpg": "/static/media/intro.8c526801.jpg",
+    "static/media/joyent.png": "/static/media/joyent.0e2ec780.png",
+    "static/media/logo.svg": "/static/media/logo.a6e640ac.svg",
+    "static/media/skills.jpg": "/static/media/skills.1602258c.jpg",
+    "static/media/solutions.jpg": "/static/media/solutions.5d4ab168.jpg",
+    "static/media/tigerBrands.png": "/static/media/tigerBrands.4ca36902.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e97db6.js",
+    "static/js/2.85a70e2d.chunk.js",
+    "static/css/main.8d60e602.chunk.css",
+    "static/js/main.21daeb3f.chunk.js"
+  ]
+}
